@@ -12,10 +12,6 @@ DepthMSA trains a single multimodal sentiment analysis model whose modality enco
 
 Coming soon.
 
-## Contact
-
-Pan Wang (pan.wang@pitt.edu)
-
 ## Citation
 
 ```bibtex
