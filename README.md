@@ -4,7 +4,7 @@
 
 Pan Wang, Jie Peng, Zhimin Li, Jingxian Chen, Hui Ji, Huanrui Yang, Pengfei Zhou, Tianlong Chen, Jingtong Hu
 
-[Project page](https://pwang322.github.io/DepthMSA/)
+[Paper (arXiv)](https://arxiv.org/abs/2611.27198) | [Project page](https://pwang322.github.io/DepthMSA/)
 
 DepthMSA trains a single multimodal sentiment analysis model whose modality encoders can each stop at a different depth, and selects the depths per sample under a compute budget with a training-free, cost-aware allocator.
 
@@ -20,7 +20,7 @@ Coming soon.
              for Multimodal Sentiment Analysis},
   author  = {Wang, Pan and Peng, Jie and Li, Zhimin and Chen, Jingxian and Ji, Hui
              and Yang, Huanrui and Zhou, Pengfei and Chen, Tianlong and Hu, Jingtong},
-  journal = {arXiv preprint},
+  journal = {arXiv preprint arXiv:2611.27198},
   year    = {2026}
 }
 ```
