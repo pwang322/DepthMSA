@@ -4,4 +4,4 @@ Static project page (this `gh-pages` branch) for "DepthMSA: Combinatorial Traini
 
 Preview locally with `python3 -m http.server` and open http://localhost:8000.
 
-When the arXiv link is public, replace the `btn soon` placeholder near the top of `index.html` with a link.
+Paper: https://arxiv.org/abs/2611.27198
